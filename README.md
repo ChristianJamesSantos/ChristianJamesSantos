@@ -22,6 +22,7 @@ Education
   [View Badge](https://catalog-education.oracle.com/pls/certview/sharebadge?id=B3666CC5FCD21E034500B692395C231D20CFF2FB6D6697C5699EB11FE6BC5733)    
 
 - **Oracle Cloud Infrastructure 2025 AI Foundations Associate**  
+  [View Badge](https://catalog-education.oracle.com/pls/certview/sharebadge?id=6BDF08364EB072B13ECEF0AD03E797BE752C5DF834454385E360AE3396E52DF7)
 
 
 🛠 Skill Sets
