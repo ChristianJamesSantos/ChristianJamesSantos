@@ -26,7 +26,7 @@ Education
   [View Badge](https://catalog-education.oracle.com/pls/certview/sharebadge?id=6BDF08364EB072B13ECEF0AD03E797BE752C5DF834454385E360AE3396E52DF7)
 
 
-🛠 Skill Sets
+## 🛠 Skill Sets
 
 Programming Languages: Java, SQL, Python
 
