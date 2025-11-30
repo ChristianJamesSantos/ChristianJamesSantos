@@ -2,11 +2,9 @@
 
 
 
-🏷️ Tagline / One-Sentence Summary
+🏷️ I am a second-year Computer Science student at New Era University
 
-A concise description of what your project does.
-
-🎓 Education
+🎓 Education        
 Grade Level	                  Institution	                                Date
 College	New Era University   (Bachelor of Science in Computer Science)	  2024 - Present
 
