@@ -5,9 +5,9 @@
 🏷️ I am a second-year Computer Science student at New Era University
 
 🎓 Education        
-Grade Level College	New Era University                    
-Institution (Bachelor of Science in Computer Science)                           
-Date 2024 - Present
+Grade Level - College	New Era University                    
+Institution - (Bachelor of Science in Computer Science)                           
+Date: 2024 - Present
 
 Education 
 
