@@ -14,13 +14,14 @@ Education
 ## 📜 Certifications/Badges
 
 - **SQL and Relational Databases 101**  
-  [View Certificate](https://courses.cognitiveclass.ai/certificates/0283b80ce7fa4cd6ae7e4db20631b710)
+  [View Certificate](https://courses.cognitiveclass.ai/certificates/0283b80ce7fa4cd6ae7e4db20631b710)   
+
+  1   
 
 - **Oracle Data Platform 2025 Certified Foundations Associate**       
-  [View Badge](https://catalog-education.oracle.com/pls/certview/sharebadge?id=B3666CC5FCD21E034500B692395C231D20CFF2FB6D6697C5699EB11FE6BC5733)
+  [View Badge](https://catalog-education.oracle.com/pls/certview/sharebadge?id=B3666CC5FCD21E034500B692395C231D20CFF2FB6D6697C5699EB11FE6BC5733)    
 
-  2
-  3
+- **Oracle Cloud Infrastructure 2025 AI Foundations Associate**  
 
 
 🛠 Skill Sets
