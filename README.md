@@ -16,7 +16,7 @@ Education
 - **SQL and Relational Databases 101**  
   [View Certificate](https://courses.cognitiveclass.ai/certificates/0283b80ce7fa4cd6ae7e4db20631b710)   
 
-- **Oracle Cloud Infrastructure 2025 Certified Foundations Associate**
+- **Oracle Cloud Infrastructure 2025 Certified Foundations Associate**   
   [View Certificate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=0A33D5412895C41314E55FF5246BF18AA799C345A3CE06A1CE1F9E8D6C985516)
 
 - **Oracle Data Platform 2025 Certified Foundations Associate**       
